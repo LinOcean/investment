@@ -6,6 +6,7 @@
 - 天天基金网：http://fund.eastmoney.com/
 - 晨星网：http://cn.morningstar.com/main/default.aspx
 - 理杏网：https://www.lixinger.com/profile/center/home/all
+- 集思录：https://www.jisilu.cn/
 
 ### 作者介绍
 
